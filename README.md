@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning Node.js and Laravel Framework
 - ⚡ Fun fact: I love to watch anime and playing games
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31frm35pbdhq45r2r3giz3u4lxty)
+
 ### Contact me
 
 [<img align="left" alt="Yami | Twitter" width="22px" src="img/twitter-logo-png-5860-32x32.ico" />][Twitter]
