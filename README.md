@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31frm35pbdhq45r2r3giz3u4lxty)
+[<img src="https://novatorem-yami98.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31frm35pbdhq45r2r3giz3u4lxty)
 
 ### Contact me
 
