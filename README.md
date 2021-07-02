@@ -8,8 +8,8 @@
 ### Contact me
 
 [<img align="left" alt="Yami | Twitter" width="22px" src="img/twitter-logo-png-5860-32x32.ico" />][Twitter]
-[<img align="left" alt="Yami | Discord" width="22px" src="discord-logo-png-7636-32x32.ico" />][Discord]
-[<img align="left" alt="cookie_kouma | Instagram" width="22px" src="instagram-logo-png-2427-32x32.ico" />][instagram]
+[<img align="left" alt="Yami | Discord" width="22px" src="img/discord-logo-png-7636-32x32.ico" />][Discord]
+[<img align="left" alt="cookie_kouma | Instagram" width="22px" src="img/instagram-logo-png-2427-32x32.ico" />][instagram]
 
 <br />
 
