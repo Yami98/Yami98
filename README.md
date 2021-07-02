@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning Node.js and Laravel Framework
 - ⚡ Fun fact: I love to watch anime and playing games
+- ⚡ I want to learn image recognition
 
 ## Goal
 
