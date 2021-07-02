@@ -5,6 +5,13 @@
 - 🌱 I’m currently learning Node.js and Laravel Framework
 - ⚡ Fun fact: I love to watch anime and playing games
 
+## Goal
+
+- Finishing my degree
+- Making my own discord bot
+- Get a job (ofc)
+- Enjoy life
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-yami98.vercel.app/api/spotify-playing" alt="Yami98 Spotify Playing" width="350" />](https://open.spotify.com/user/31frm35pbdhq45r2r3giz3u4lxty)
