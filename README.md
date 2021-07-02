@@ -7,9 +7,9 @@
 
 ### Contact me
 
-[<img align="left" alt="Yami | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Yami | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
-[<img align="left" alt="cookie_kouma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Yami | Twitter" width="22px" src="img/twitter-logo-png-5860-32x32.ico" />][Twitter]
+[<img align="left" alt="Yami | Discord" width="22px" src="discord-logo-png-7636-32x32.ico" />][Discord]
+[<img align="left" alt="cookie_kouma | Instagram" width="22px" src="instagram-logo-png-2427-32x32.ico" />][instagram]
 
 <br />
 
