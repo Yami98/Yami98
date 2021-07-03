@@ -13,9 +13,6 @@
 - Get a job (ofc)
 - Enjoy life
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-yami98.vercel.app/api/spotify-playing" alt="Yami98 Spotify Playing" width="350" />](https://open.spotify.com/user/31frm35pbdhq45r2r3giz3u4lxty)
 
 ### Contact me
 
