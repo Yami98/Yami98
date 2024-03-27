@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love to watch anime and playing games
 - ⚡ I want to learn image recognition
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Yami98&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ## Goal
 
 - Finishing my degree (Done)
