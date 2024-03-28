@@ -8,6 +8,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yami98&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami98&layout=compact)
+
+
 ## Goal
 
 - Finishing my degree (Done)
