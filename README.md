@@ -26,5 +26,4 @@
 
 <br />
 
-[Twitter]: https://twitter.com/DestroyerSan
 [Discord]: https://discordapp.com/users/217582472613986304/
