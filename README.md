@@ -21,7 +21,7 @@
 
 ### Contact me
 
-[<img align="left" alt="Yami | Twitter" width="22px" src="img/twitter-logo-png-5860-32x32.ico" />][Twitter]
+
 [<img align="left" alt="Yami | Discord" width="22px" src="img/discord-logo-png-7636-32x32.ico" />][Discord]
 
 <br />
