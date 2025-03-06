@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love to watch anime and playing games
 - ⚡ I want to learn image recognition
 
-## MyFavorite Language
+## MyFavorite Tools
 
 ###
 
